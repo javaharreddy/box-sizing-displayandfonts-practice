@@ -1,0 +1,38 @@
+*{
+    margin:0;
+    padding:0;
+}
+.navigation{
+    margin:10px;
+    padding:10px;
+    border:2px solid red;
+    background-color:black;
+}
+.navigation ul{
+    text-align:center;
+}
+.navigation ul li{
+    color:white;
+    display:inline-block;
+    margin:10px;
+    text-transform:uppercase;
+    font-size:large;
+}
+.container{
+    margin-top:10px;
+    margin-bottom:10px;
+    height:500px;
+    width:50%;
+    color:white;
+    background-color: black;
+    display:inline-block;
+}
+.container2{
+    margin-top:10px;
+    margin-bottom:10px;
+    height:500px;
+    width:50%;
+    color:white;
+    background-color: black;
+    display:inline-block;
+}
